@@ -37,7 +37,7 @@ function Socials() {
 
 function Header() {
   return (
-    <div className='w-full px-10 h-fit pt-10 md:pt-16 xl:pt-44 flex flex-col md:flex-row'>
+    <div className='w-full px-10 h-fit pt-10 md:pt-16 xl:pt-44 flex flex-col md:flex-row border-b border-black pb-10'>
         <Title className='md:w-1/3'/>
         <div className='flex items-center h-full mt-10 md:w-2/3 md:mt-0'>
             <About className='md:mt-0 mt-3'/>
