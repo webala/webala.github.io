@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b8ef881.css",
+    "main.js": "/static/js/main.66c8daf9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cake-fairy.png": "/static/media/cake-fairy.14aed8f85c8b0287da7d.png",
+    "static/media/veannes.png": "/static/media/veannes.ee6af7f0632bcda49d80.png",
+    "static/media/dp.jpg": "/static/media/dp.a8eca2746e27709a6eb8.jpg",
+    "static/media/glitch.jpeg": "/static/media/glitch.bf993648c59c089dc7bf.jpeg",
+    "index.html": "/index.html",
+    "main.8b8ef881.css.map": "/static/css/main.8b8ef881.css.map",
+    "main.66c8daf9.js.map": "/static/js/main.66c8daf9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b8ef881.css",
+    "static/js/main.66c8daf9.js"
+  ]
+}
